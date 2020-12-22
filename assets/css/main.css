@@ -4623,3 +4623,7 @@ nav:hover {
 #aboutMe {
   text-align: center;
 }
+
+.submitQuery {
+  margin-top: 2em;
+}
