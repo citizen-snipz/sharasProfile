@@ -4633,6 +4633,6 @@ nav:hover {
 #hireMe {
   font-weight: 400;
   font-size: 1.1rem;
-  text: white;
+  color: white;
   text-shadow: 1px 1px 1px rgb(27, 71, 99);
 }
