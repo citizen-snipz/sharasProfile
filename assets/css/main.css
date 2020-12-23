@@ -4627,3 +4627,12 @@ nav:hover {
 .submitQuery {
   margin-top: 2em;
 }
+
+#aboutMe,
+#banner,
+#hireMe {
+  font-weight: 400;
+  font-size: 1.1rem;
+  text: white;
+  text-shadow: 1px 1px 1px rgb(27, 71, 99);
+}
