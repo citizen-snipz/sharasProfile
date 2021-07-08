@@ -189,10 +189,12 @@ html {
 }
 
 body {
-  background-color: #476777;
+  background-color: #5da49b;
+  background-image: url("../../images/dark-mosaic.png");
+  /* background-color: #476777; */
   background-attachment: scroll, fixed;
-  background-image: url("../../images/overlay.png"),
-    url("../../images/bgCropped.png");
+  /* background-image: url("../../images/overlay.png"),
+    url("../../images/bgCropped.png"); */
   background-position: top left, top center;
   background-repeat: repeat, no-repeat;
   background-size: 256px, cover;
